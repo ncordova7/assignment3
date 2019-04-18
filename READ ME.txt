@@ -2,3 +2,7 @@ Nic Cordova
 2302109
 
 In this assignment, I generated a csv file called Clients which got client info such as: first name, last name, phone number, and email. The csv file was generated via Faker, which is a fake-data generator in Python.
+
+Source for Faker code: https://faker.readthedocs.io/en/master/providers/faker.providers.address.html
+
+
